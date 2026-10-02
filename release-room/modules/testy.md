@@ -1,5 +1,5 @@
-# Moduł testy
+# Testy
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: Prak2025X
+Stan: GOTOWY
+Opis zmiany: Sprawdzono podstawowe scenariusze wydania.
