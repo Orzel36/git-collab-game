@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
+Odpowiedzialny: Prak2025X
 Stan: NIEGOTOWY
 Opis zmiany: BRAK
